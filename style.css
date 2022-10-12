@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: auto;
+}
+h1{
+    color: blue;
+    border-width:5px;
+    border-style: groove;
+    border-radius: 5px;
+}
